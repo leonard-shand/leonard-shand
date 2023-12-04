@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leonard-shand
+- 👋 Hi, I’m Len Shand (@leonard-shand)
 - 👀 I’m interested in cyber security, virtualisation, homelabs, and DevOps
 - 🌱 I’m currently learning more about DevOps
 
